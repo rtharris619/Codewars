@@ -1,3 +1,5 @@
+# Kata: 60dda5a66c4cf90026256b75
+
 def some_but_not_all(seq, pred):
     results = []
     for i in range(len(seq)):
